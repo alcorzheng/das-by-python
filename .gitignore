@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+/das_by_python/config
